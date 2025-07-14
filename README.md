@@ -23,3 +23,9 @@ Circular Onboarding component shows the process of onboarding screens using a ci
 The Accordion Component brings an organized and interactive way to display expandable content within your application. This component is designed to reveal or hide content sections dynamically, based on user interaction. Each accordion item smoothly transitions between its expanded and collapsed states, ensuring a seamless user experience. The animation is enhanced with customized spring physics to make the transitions feel natural and responsive, minimizing bounce during collapse and providing quick expansion. This component is ideal for FAQs, settings menus, and any content-heavy sections where users need to access detailed information without navigating away from the main page.
 
 ![Accordion Demo](accordion/assets/accordion-demo.gif)
+
+# Challenge 4 Swipeable Rows
+
+Swipeable Rows is a customizable React Native component that provides swipeable row functionality for lists. It allows you to reveal hidden actions on each row with a smooth swiping gesture.
+
+![Demo](http://drive.google.com/uc?export=view&id=1ZopC_HRtBTO0q62i6_fkOzNVgh9-5Gtl)
